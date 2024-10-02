@@ -1,0 +1,7 @@
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\kkubr\C# MURAT YÜCEDAĞ\CSharpEgitimKampi-master\CSharpEgitimKampi-master\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
